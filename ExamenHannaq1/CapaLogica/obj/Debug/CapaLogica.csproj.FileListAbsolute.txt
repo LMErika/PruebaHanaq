@@ -1,0 +1,10 @@
+D:\ExamenHannaq1\CapaLogica\bin\Debug\CapaLogica.dll
+D:\ExamenHannaq1\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\ExamenHannaq1\CapaLogica\bin\Debug\CapaDato.dll
+D:\ExamenHannaq1\CapaLogica\bin\Debug\CapaEntidad.dll
+D:\ExamenHannaq1\CapaLogica\bin\Debug\CapaDato.pdb
+D:\ExamenHannaq1\CapaLogica\bin\Debug\CapaEntidad.pdb
+D:\ExamenHannaq1\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+D:\ExamenHannaq1\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\ExamenHannaq1\CapaLogica\obj\Debug\CapaLogica.dll
+D:\ExamenHannaq1\CapaLogica\obj\Debug\CapaLogica.pdb

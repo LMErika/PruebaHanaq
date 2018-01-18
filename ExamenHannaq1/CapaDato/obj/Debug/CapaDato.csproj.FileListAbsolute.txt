@@ -1,0 +1,8 @@
+D:\ExamenHannaq1\CapaDato\bin\Debug\CapaDato.dll
+D:\ExamenHannaq1\CapaDato\bin\Debug\CapaDato.pdb
+D:\ExamenHannaq1\CapaDato\bin\Debug\CapaEntidad.dll
+D:\ExamenHannaq1\CapaDato\bin\Debug\CapaEntidad.pdb
+D:\ExamenHannaq1\CapaDato\obj\Debug\CapaDato.csprojResolveAssemblyReference.cache
+D:\ExamenHannaq1\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+D:\ExamenHannaq1\CapaDato\obj\Debug\CapaDato.dll
+D:\ExamenHannaq1\CapaDato\obj\Debug\CapaDato.pdb
